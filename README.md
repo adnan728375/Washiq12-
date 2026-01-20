@@ -44,6 +44,15 @@
 3. **Launch the bot:** `node index.js`
 
 ---
+---
+
+
+## ⛳ another most popular deployer web
+
+
+RENDER,REPLIT,RAILWAY
+
+---
 
 ## 🤖 Run on GitHub Actions
 To run this bot using GitHub Actions, create a file at `.github/workflows/main.yml` and paste the following code:
@@ -91,12 +100,3 @@ jobs:
 
 
 
----
-
-
-## ⛳ another most popular deployer web
-
-
-RENDER,REPLIT,RAILWAY
-
----
